@@ -13,3 +13,5 @@ https://youtu.be/HqxH3ka98Qo
 
 Made by Anuj Mahato (35450857) for Murdoch Uni.
 If you have any probs or wanna ask anything, just let me know. Cheers!
+[ICT171 Assignment 2_ Cloud Server Project & Video Explainer_.pdf](https://github.com/user-attachments/files/20601752/ICT171.Assignment.2_.Cloud.Server.Project.Video.Explainer_.pdf)
+[ICT171 Assignment 2_ Cloud Server Project & Video Explainer_.docx](https://github.com/user-attachments/files/20601754/ICT171.Assignment.2_.Cloud.Server.Project.Video.Explainer_.docx)
